@@ -41,7 +41,7 @@ https://colab.research.google.com/drive/1TTo1utCVdcru-oCmzNdHBfmWLeNqY9dT?usp=sh
 ---
 
 ##  Project Demo
-👉 (Optional: Paste your video link here)
+👉 https://www.loom.com/share/684204caa74245b29a4aed64e43652f7
 
 ---
 
