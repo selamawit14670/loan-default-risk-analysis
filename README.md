@@ -36,7 +36,7 @@ The analysis includes data cleaning, feature engineering, visualization, and adv
 
 ##  How to View the Project
 👉 Open in Google Colab:
-(PASTE YOUR COLAB LINK HERE)
+https://colab.research.google.com/drive/1TTo1utCVdcru-oCmzNdHBfmWLeNqY9dT?usp=sharing
 
 ---
 
@@ -46,4 +46,4 @@ The analysis includes data cleaning, feature engineering, visualization, and adv
 ---
 
 ##  Documentation
-👉 (Optional: Paste your Google Doc link here)
+👉 https://docs.google.com/document/d/1dVcl9-FSeEu96jEIv1vNXQLdX9tK5ME8zYPZfRqPD70/edit?usp=sharing
